@@ -1,5 +1,9 @@
 # Flutter Challenges
 
+# Places Review Challlenge
+
+https://user-images.githubusercontent.com/54115437/215844428-f1fa7249-2b3c-4a08-811b-cd6553451d37.mp4
+
 <table>
 <thead>
 	<tr>
@@ -151,12 +155,6 @@
 </tbody>
 </table>
 
-# Places Review Challlenge
-
-https://user-images.githubusercontent.com/54115437/215844428-f1fa7249-2b3c-4a08-811b-cd6553451d37.mp4
-
-
-
 <br>
 
 <table>
@@ -174,10 +172,9 @@ https://user-images.githubusercontent.com/54115437/215844428-f1fa7249-2b3c-4a08-
 </tbody>
 </table>
 
-# Travel Posters Challenge
+# Travel Carousel Challenge
 
-https://user-images.githubusercontent.com/54115437/215844606-a48c36a4-6f9b-4ff3-85ab-7823a543a9af.mp4
-
+https://user-images.githubusercontent.com/54115437/215844578-240b7a8f-900f-440f-86b0-5edd3bdf32a0.mp4
 
 <br>
 
@@ -196,10 +193,10 @@ https://user-images.githubusercontent.com/54115437/215844606-a48c36a4-6f9b-4ff3-
 </tbody>
 </table>
 
-# Travel Carousel Challenge
 
-https://user-images.githubusercontent.com/54115437/215844578-240b7a8f-900f-440f-86b0-5edd3bdf32a0.mp4
+# Travel Posters Challenge
 
+https://user-images.githubusercontent.com/54115437/215844606-a48c36a4-6f9b-4ff3-85ab-7823a543a9af.mp4
 
 <br>
 
@@ -222,6 +219,9 @@ https://user-images.githubusercontent.com/54115437/215844578-240b7a8f-900f-440f-
 
 https://user-images.githubusercontent.com/54115437/215844539-c1fdbd87-a95d-4249-a805-ba5fa470780e.mp4
 
+# Blur Modal
+
+https://user-images.githubusercontent.com/54115437/215845777-fcf4a40e-2a99-4bc5-b0bd-5619efef1ad7.mp4
 
 <br>
 
